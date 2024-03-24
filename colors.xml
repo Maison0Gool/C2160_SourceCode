@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="magenta">#FF00FF</color>
+    <color name="playerA">#FF1100</color>
+    <color name="outerCircleShade">#727272</color>
+    <color name="innerCircleShade">#002D04</color>
+</resources>
