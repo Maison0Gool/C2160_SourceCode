@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayActivity</string>
+    <string name="kills">Kills:</string>
+    <string name="count">0</string>
+</resources>
